@@ -25,5 +25,3 @@ A Python-based automation project that fetches the latest Indian and internation
 
 ---
 
-## 📂 Project Structure
-
